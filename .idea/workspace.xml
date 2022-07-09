@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96a775ee-acfb-417d-b8b8-73d24a8b8d0d" name="Changes" comment="First Java Program">
-      <change afterPath="$PROJECT_DIR$/src/dataTypes/DataTypes.java" afterDir="false" />
+    <list default="true" id="96a775ee-acfb-417d-b8b8-73d24a8b8d0d" name="Changes" comment="DataTypes">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operators/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operators/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operators/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operators/Question3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myPackage/MyFirstJavaProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myPackage/MyFirstJavaProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +36,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DataTypes">
+  <component name="RunManager" selected="Application.Question3">
     <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dataTypes.DataTypes" />
       <module name="JavaForBeginners" />
@@ -50,12 +54,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstJavaProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myPackage.MyFirstJavaProgram" />
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Operators" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myPackage.*" />
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Question1" />
+      <module name="JavaForBeginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Question2" />
+      <module name="JavaForBeginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.Question3" />
+      <module name="JavaForBeginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question3" />
+        <item itemvalue="Application.Question2" />
+        <item itemvalue="Application.Question1" />
+        <item itemvalue="Application.Operators" />
         <item itemvalue="Application.DataTypes" />
-        <item itemvalue="Application.MyFirstJavaProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -86,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657368760045</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DataTypes">
+      <created>1657370538451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657370538451</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Java Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Java Program" />
+    <MESSAGE value="DataTypes" />
+    <option name="LAST_COMMIT_MESSAGE" value="DataTypes" />
   </component>
 </project>
