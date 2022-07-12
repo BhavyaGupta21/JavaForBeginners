@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96a775ee-acfb-417d-b8b8-73d24a8b8d0d" name="Changes" comment="Operators">
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/EvenOrOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/IfElseCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/JumpingStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/LargestOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/NestedIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/SwitchCaseStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlStatements/WhileLoop.java" afterDir="false" />
+    <list default="true" id="96a775ee-acfb-417d-b8b8-73d24a8b8d0d" name="Changes" comment="Control Statements">
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/MultiDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/SingleDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringsQuestion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringsQuestion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringsQuestion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringsQuestion4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +48,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Question3">
-    <configuration name="JumpingStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlStatements.JumpingStatements" />
+  <component name="RunManager" selected="Application.StringsQuestion6">
+    <configuration name="StringsQuestion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.StringsQuestion2" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controlStatements.*" />
+          <option name="PATTERN" value="arraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlStatements.Question1" />
+    <configuration name="StringsQuestion3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.StringsQuestion3" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controlStatements.*" />
+          <option name="PATTERN" value="arraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlStatements.Question2" />
+    <configuration name="StringsQuestion4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.StringsQuestion4" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controlStatements.*" />
+          <option name="PATTERN" value="arraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlStatements.Question3" />
+    <configuration name="StringsQuestion5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.StringsQuestion5" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controlStatements.*" />
+          <option name="PATTERN" value="arraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlStatements.Question4" />
+    <configuration name="StringsQuestion6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.StringsQuestion6" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controlStatements.*" />
+          <option name="PATTERN" value="arraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question3" />
-        <item itemvalue="Application.Question4" />
-        <item itemvalue="Application.Question2" />
-        <item itemvalue="Application.Question1" />
-        <item itemvalue="Application.JumpingStatements" />
+        <item itemvalue="Application.StringsQuestion6" />
+        <item itemvalue="Application.StringsQuestion5" />
+        <item itemvalue="Application.StringsQuestion4" />
+        <item itemvalue="Application.StringsQuestion3" />
+        <item itemvalue="Application.StringsQuestion2" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657373073011</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Control Statements">
+      <created>1657450446786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657450446786</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +179,7 @@
     <MESSAGE value="First Java Program" />
     <MESSAGE value="DataTypes" />
     <MESSAGE value="Operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operators" />
+    <MESSAGE value="Control Statements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Control Statements" />
   </component>
 </project>
