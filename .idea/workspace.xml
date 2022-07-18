@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96a775ee-acfb-417d-b8b8-73d24a8b8d0d" name="Changes" comment="Control Statements">
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/ArraysQuestion6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/MultiDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/SingleDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringsQuestion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringsQuestion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringsQuestion3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/StringsQuestion4.java" afterDir="false" />
+    <list default="true" id="96a775ee-acfb-417d-b8b8-73d24a8b8d0d" name="Changes" comment="Arrays and Strings">
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/ClassVariablesStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/ClassVariablesStudentForConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/EmployeeCLass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/EmployeeMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/MethodsExampleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/OOPEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/StudentMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/StudentMainClassUsingMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,20 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.StringsQuestion6">
-    <configuration name="StringsQuestion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.StringsQuestion2" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="objectOrientedProgramming" />
+      <recent name="arraysAndStrings" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Question2">
+    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedProgramming.Constructor" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="PATTERN" value="objectOrientedProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringsQuestion3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.StringsQuestion3" />
+    <configuration name="MethodsExampleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedProgramming.MethodsExampleCalculator" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="PATTERN" value="objectOrientedProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringsQuestion4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.StringsQuestion4" />
+    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedProgramming.Question1" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="PATTERN" value="objectOrientedProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringsQuestion5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.StringsQuestion5" />
+    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedProgramming.Question2" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
+          <option name="PATTERN" value="objectOrientedProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question2" />
+        <item itemvalue="Application.Question1" />
+        <item itemvalue="Application.Constructor" />
+        <item itemvalue="Application.MethodsExampleCalculator" />
         <item itemvalue="Application.StringsQuestion6" />
-        <item itemvalue="Application.StringsQuestion5" />
-        <item itemvalue="Application.StringsQuestion4" />
-        <item itemvalue="Application.StringsQuestion3" />
-        <item itemvalue="Application.StringsQuestion2" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657450446786</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Arrays and Strings">
+      <created>1657639683771</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657639683771</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +191,7 @@
     <MESSAGE value="DataTypes" />
     <MESSAGE value="Operators" />
     <MESSAGE value="Control Statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Control Statements" />
+    <MESSAGE value="Arrays and Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays and Strings" />
   </component>
 </project>
