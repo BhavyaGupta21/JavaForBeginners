@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96a775ee-acfb-417d-b8b8-73d24a8b8d0d" name="Changes" comment="Arrays and Strings">
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/ClassVariablesStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/ClassVariablesStudentForConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/EmployeeCLass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/EmployeeMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/MethodsExampleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/OOPEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/StudentMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/StudentMainClassUsingMethod.java" afterDir="false" />
+    <list default="true" id="96a775ee-acfb-417d-b8b8-73d24a8b8d0d" name="Changes" comment="Object Oriented Programming">
+      <change afterPath="$PROJECT_DIR$/src/overloading/ConstructorOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overloading/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overloading/OverloadMainMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +44,13 @@
       <recent name="arraysAndStrings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question2">
-    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedProgramming.Constructor" />
+  <component name="RunManager" selected="Application.OverloadMainMethod">
+    <configuration name="ConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overloading.ConstructorOverloading" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedProgramming.*" />
+          <option name="PATTERN" value="overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +58,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsExampleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedProgramming.MethodsExampleCalculator" />
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overloading.MethodOverloading" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedProgramming.*" />
+          <option name="PATTERN" value="overloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverloadMainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overloading.OverloadMainMethod" />
+      <module name="JavaForBeginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringsQuestion6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.StringsQuestion6" />
-      <module name="JavaForBeginners" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OverloadMainMethod" />
+        <item itemvalue="Application.ConstructorOverloading" />
+        <item itemvalue="Application.MethodOverloading" />
         <item itemvalue="Application.Question2" />
         <item itemvalue="Application.Question1" />
-        <item itemvalue="Application.Constructor" />
-        <item itemvalue="Application.MethodsExampleCalculator" />
-        <item itemvalue="Application.StringsQuestion6" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657639683771</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Object Oriented Programming">
+      <created>1658136609095</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658136609095</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +191,7 @@
     <MESSAGE value="Operators" />
     <MESSAGE value="Control Statements" />
     <MESSAGE value="Arrays and Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays and Strings" />
+    <MESSAGE value="Object Oriented Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Object Oriented Programming" />
   </component>
 </project>
