@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96a775ee-acfb-417d-b8b8-73d24a8b8d0d" name="Changes" comment="Overloading">
-      <change afterPath="$PROJECT_DIR$/src/thisKeyword/ThisKeyword.java" afterDir="false" />
+    <list default="true" id="96a775ee-acfb-417d-b8b8-73d24a8b8d0d" name="Changes" comment="This Keyword">
+      <change afterPath="$PROJECT_DIR$/src/staticVariablesAndStaticMethods/StaticKeyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +42,13 @@
       <recent name="arraysAndStrings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThisKeyword">
-    <configuration name="ConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overloading.ConstructorOverloading" />
+  <component name="RunManager" selected="Application.Assignment1">
+    <configuration name="Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticVariablesAndStaticMethods.Assignment1" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overloading.*" />
+          <option name="PATTERN" value="staticVariablesAndStaticMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overloading.MethodOverloading" />
+    <configuration name="ConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overloading.ConstructorOverloading" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedProgramming.Question2" />
+    <configuration name="StaticKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticVariablesAndStaticMethods.StaticKeyword" />
       <module name="JavaForBeginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedProgramming.*" />
+          <option name="PATTERN" value="staticVariablesAndStaticMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Assignment1" />
+        <item itemvalue="Application.StaticKeyword" />
         <item itemvalue="Application.ThisKeyword" />
         <item itemvalue="Application.OverloadMainMethod" />
         <item itemvalue="Application.ConstructorOverloading" />
-        <item itemvalue="Application.MethodOverloading" />
-        <item itemvalue="Application.Question2" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658728651415</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="This Keyword">
+      <created>1658729228652</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658729228652</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +205,7 @@
     <MESSAGE value="Arrays and Strings" />
     <MESSAGE value="Object Oriented Programming" />
     <MESSAGE value="Overloading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Overloading" />
+    <MESSAGE value="This Keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="This Keyword" />
   </component>
 </project>
